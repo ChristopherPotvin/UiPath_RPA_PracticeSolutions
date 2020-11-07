@@ -13,4 +13,5 @@
 <br>
 <strong>UI Interaction - 20%</strong>
 <br>
+<br>
 **Note**: Folder structure inside of the repository and solutions inside those folders currently align with the course content. Thanks for stopping by! Happy automation!
