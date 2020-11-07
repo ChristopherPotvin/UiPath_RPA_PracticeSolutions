@@ -1,6 +1,5 @@
 # UiPath RPA Solution Repository
-<h3>A repository for all of my RPA Practice and Assignment Solutions while I complete the RPA Developer Foundation on UiPath Academy.</h3>
-<br>
+<h4>A repository for all of my RPA Practice and Assignment Solutions while I complete the RPA Developer Foundation on UiPath Academy.</h4>
 **Note**: Language of choice is VB.Net
 
 # RPA Developer Foundation Roadmap
